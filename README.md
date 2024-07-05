@@ -72,7 +72,7 @@ These are my immediate goals to achieve.
 
 # Projects
 ### First project: construction site
-<img align="left" alt="photo" src="https://github.com/1ChaLLengeR1/1ChaLLengeR1/blob/main/images/budowlana.png" /> 
+<img align="left" alt="photo" src="https://github.com/ArturScibor/ArturScibor/blob/main/images/stronaBudowlana.png" /> 
 
 - Link to site: https://projekt2.strona.arturscibor.pl/aboutU
 - For more information, see: https://arturscibor.pl/projects/project/38e1c24e-0929-4668-9fa2-9091dc2d2f47
