@@ -2,7 +2,7 @@
 <h1 align="center">Hi there 👋, my name is Artur Ścibor</h1>
 <h2 align="center">I'm Full Stack Vue.js Developer</h2>
 <p align="center">
-   <img width="100%" align="left" alt="photo" src="https://github.com/1ChaLLengeR1/1ChaLLengeR1/blob/main/images/arturscibor.png" />
+   <img width="100%" align="left" alt="photo" src="https://github.com/ArturScibor/ArturScibor/blob/main/images/stanowisko.jpg" />
 </p>
 
 # O mnie:
