@@ -2,7 +2,7 @@
 <h1 align="center">Hi there 👋, my name is Artur Ścibor</h1>
 <h2 align="center">I'm Full Stack Vue.js Developer</h2>
 <p align="center">
-   <img width="100%" align="left" alt="photo" src="https://github.com/ArturScibor/ArturScibor/blob/main/images/stanowisko.jpg" />
+   <img width="100%" align="left" alt="photo" src="https://github.com/ArturScibor/ArturScibor/blob/main/images/arturscibor.png" />
 </p>
 
 # O mnie:
@@ -18,7 +18,7 @@ Aktualnie moja stacja robocza wygląda tak. Wiem, że jedno zdjęcie nie oddaje 
 ## My workstation
 Currently, my post looks like this. I know that one photo may not give everything away, but practically everything I need for daily study and work is on it. I plan to expand the workstation, add a fourth monitor for work, and eventually replace the square one with a similar model to the others to create a comprehensive workstation based on 24 inches. Why as many as four monitors? When I write projects in several technologies at the same time and read information, I need space for everything. Now, learning and working on projects as a full stack, it really helps because I don't have to switch tabs all the time - everything is open, and changes, editors, etc. are visible in real time.
 <p align="center">
-    <img width="100%" src="https://github.com/1ChaLLengeR1/1ChaLLengeR1/blob/main/images/stanowisko.jpg" alt="stanowisko_komputerowe" />
+    <img width="100%" src="https://github.com/ArturScibor/ArturScibor/blob/main/images/stanowisko.jpg" />
 </p>
 
 ## Jak rozwijam się, jako developer? 🌱🌱🌱
